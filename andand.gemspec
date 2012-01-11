@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name = "andand"
+  s.name = "ryansch-andand"
   s.version = "1.3.2"
   s.date = "2008-11-07"
   s.summary = "The Maybe Monad in idiomatic Ruby"
   s.email = "reg@braythwayt.com"
-  s.homepage = "http://github.com/raganwald/andand/tree/master"
+  s.homepage = "http://github.com/ryansch/andand"
   s.description = " Maybe Monad in idiomatic Ruby."
   s.authors = ["Reg Braithwaite"]
   s.files = ["History.txt",
